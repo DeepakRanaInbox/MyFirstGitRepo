@@ -1,1 +1,3 @@
-First Doc in Gi
+First Doc in Git
+
+Update 1
